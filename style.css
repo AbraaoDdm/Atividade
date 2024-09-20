@@ -1,0 +1,16 @@
+body {
+    background: rgb(47, 93, 119);
+    padding: auto;
+    text-align: center;
+    }
+button {
+    height: 100px;
+    }
+span {
+    color: red;
+}
+
+.aumentar button{
+    color: green;
+}
+
